@@ -18,6 +18,7 @@
 
 # Power BI Dashboard
 
+![Dashboard](Dashboard.png)
 
 # SQL 
 
